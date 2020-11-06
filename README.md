@@ -13,5 +13,5 @@
 ## Imagem 03 - Connection error
 
 <p align="center">
-  <img src="https://github.com/cicerorod/avancadevDesafio02/blob/master/img/03-ConnectionError">
+  <img src="https://github.com/cicerorod/avancadevDesafio02/blob/master/img/03-ConnectionError.PNG">
 </p>
